@@ -81,7 +81,7 @@ const Resume = () => {
               Download my full resume to learn more about my technical background and experience.
             </p>
             <motion.a
-              href="/resume.pdf"
+              href="resume.pdf"
               download="Rajnish_Sinh_Resume.pdf"
               className="btn-primary"
               whileHover={{ scale: 1.05 }}
